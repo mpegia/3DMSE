@@ -36,7 +36,7 @@ This repository contains the implementation of **3DMSE (3D Media Search Engine)*
 
 This work was supported by the Horizon Europe research and innovation programme under grant agreement HE-101070250 XRECO.
 
-If you use this code or framework in your research, please cite the original MuseHash paper:
+If you use this code or framework in your research, please cite the original MuseHash paper https://github.com/mpegia/MuseHash/tree/main and the following work:
 
 ```bibtex
 @inproceedings{pegia20243dmse, 
