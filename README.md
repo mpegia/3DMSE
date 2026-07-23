@@ -1,4 +1,4 @@
-# 3DMSE: AnInteractive 3D Media Search Engine
+# 3DMSE: An Interactive 3D Media Search Engine
 
 This repository contains the implementation of **3DMSE (3D Media Search Engine)**, an interactive web-based system designed to facilitate the exploration, browsing, and multimodal retrieval of 3D models and images. The system leverages the **MuseHash** approach for scalable Bayesian hashing across multiple representations (meshes, point clouds, and multi-view images).
 
