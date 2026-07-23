@@ -38,12 +38,13 @@ This work was supported by the Horizon Europe research and innovation programme 
 
 If you use this code or framework in your research, please cite the original MuseHash paper:
 
-@inproceedings{pegia20243dmse,
-  title={3DMSE: An Interactive 3D Media Search Engine},
-  author={Pegia, Maria Eirini and Georgalis, Dimitris and Pantelidis, Nick and J{\'o}nsson, Bj{\"o}rn {\TH}{\'o}r and Moumtzidou, Anastasia and Diplaris, Sotiris and Gialampoukidis, Ilias and Vrochidis, Stefanos and Kompatsiaris, Ioannis},
-  booktitle={Proceedings of the 2024 International Conference on Multimedia Retrieval},
-  pages={1260--1264},
-  year={2024}
+```bibtex
+@inproceedings{pegia20243dmse, 
+  title={3DMSE: An Interactive 3D Media Search Engine}, 
+  author={Pegia, Maria Eirini and Georgalis, Dimitris and Pantelidis, Nick and J{\'o}nsson, Bj{\"o}rn {\TH}{\'o}r and Moumtzidou, Anastasia and Diplaris, Sotiris and Gialampoukidis, Ilias and Vrochidis, Stefanos and Kompatsiaris, Ioannis}, 
+  booktitle={Proceedings of the 2024 International Conference on Multimedia Retrieval}, 
+  pages={1260--1264}, 
+  year={2024} 
 }
 
 ## 📜 License
